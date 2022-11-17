@@ -4,7 +4,6 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="button"],[
 }
 
 .wppsac-post-image-bg:hover img {
-    opacity: 0.3;
     transform: scale(1.2);
 }
 
