@@ -4,6 +4,6 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="button"],[
 
 @media screen and (min-width: 600px) {
 	#Rich_Web_VS_HPS88{
-        	display: none;
+        	 display: none !important;
 	  }
   }
