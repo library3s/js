@@ -11,6 +11,9 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
     .wppsac-post-carousel h2.wppsac-post-title {
         height: auto;
     }
+    .tpg-shortcode-main-wrapper .layout2 .rt-holder .rt-detail .entry-content {
+        text-align: unset !important;
+    }
 }
 @media screen and (max-width: 400px) {
    .tintucsk-home .wppsac-post-content-position {
