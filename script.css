@@ -6,10 +6,10 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
 }
 
 @media screen and (max-width: 400px) {
-   [class~=tintucsk-home] [class~=wppsac-post-content-position] {
+   .tintucsk-home .wppsac-post-content-position {
         width: auto;
     }
-    [class~=wppsac-post-carousel] [class~=wppsac-post-date] {
+    .wppsac-post-carousel .wppsac-post-date {
         display: none;
     }
   }
