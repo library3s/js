@@ -4,10 +4,20 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
     margin-right: calc(-100vw / 2 + 100% / 2);
     max-width: 100vw;
 }
-
+@media screen and (max-width: 600px) {
+   .tintucsk-home .wppsac-post-content-position {
+        width: auto;
+    }
+    .wppsac-post-carousel h2.wppsac-post-title {
+        height: auto;
+    }
+}
 @media screen and (max-width: 400px) {
    .tintucsk-home .wppsac-post-content-position {
         width: auto;
+    }
+    .wppsac-post-carousel h2.wppsac-post-title {
+        height: auto;
     }
     .wppsac-post-carousel .wppsac-post-date {
         display: none;
