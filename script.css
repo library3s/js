@@ -11,7 +11,7 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
     .wppsac-post-carousel h2.wppsac-post-title {
         height: auto;
     }
-    .tpg-shortcode-main-wrapper .layout2 .rt-holder .rt-detail .entry-content {
+    .rt-tpg-container h3.entry-title {
         text-align: unset !important;
     }
 }
