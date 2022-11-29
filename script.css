@@ -12,7 +12,7 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
         height: auto;
     }
     .rt-tpg-container h3.entry-title {
-        text-align: unset !important;
+        text-align: left;
     }
 }
 @media screen and (max-width: 400px) {
