@@ -37,3 +37,10 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
         margin-bottom: 97.75pt !important;
     }
 }
+
+ @media screen and (max-width: 600px){
+    .about-us-content-desc {
+        text-align: -webkit-auto;
+    }
+}
+
