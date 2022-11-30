@@ -26,3 +26,14 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
         display: none;
     }
   }
+
+@media screen and (max-width: 400px) {
+    .title-area {
+            width: 15.1875pc !important;
+    }
+  }
+ @media screen and (max-width: 385px){
+    .about-us-content-home .about-us-img {
+        margin-bottom: 97.75pt !important;
+    }
+}
