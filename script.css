@@ -41,4 +41,7 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
     .about-us-content-desc {
         text-align: -webkit-auto !important;
     }
+article [class~=entry-content] {
+    text-align: -webkit-auto!important;
+}
 
