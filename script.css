@@ -45,3 +45,10 @@ article [class~=entry-content] {
     text-align: -webkit-auto!important;
 }
 
+ @media screen and (max-width: 600px){
+        body {
+        font-family: serif;
+        font-size: 18px !important;
+    }
+}
+
