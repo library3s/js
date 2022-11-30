@@ -38,9 +38,7 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
     }
 }
 
- @media screen and (max-width: 600px){
     .about-us-content-desc {
-        text-align: -webkit-auto;
+        text-align: -webkit-auto !important;
     }
-}
 
