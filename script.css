@@ -46,9 +46,13 @@ article [class~=entry-content] {
 }
 
  @media screen and (max-width: 600px){
-        body {
+     body {
         font-family: serif;
-        font-size: 18px !important;
+        font-size: 17px !important;
+    }
+
+    [class~=about-us-content-desc] {
+        font-size: 17px !important;
     }
 }
 
