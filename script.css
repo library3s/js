@@ -54,6 +54,9 @@ article [class~=entry-content] {
     .about-us-content-desc {
         font-size: 16px !important;
     }
+    .about-us-content-desc{
+        font-size: 12pt !important;
+    }
 }
 body,a ,p, h4, h2, h1 {
         font-family: serif !important;
