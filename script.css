@@ -55,10 +55,13 @@ article [class~=entry-content] {
         font-size: 16px !important;
     }
 }
-body,a ,p, h4 {
+body,a ,p, h4, h2, h1 {
         font-family: serif !important;
     }
-[class~=genesis-nav-menu] [class~=sub-menu] a, [class~=genesis-nav-menu] a, body, [class~=about-us-content-desc],#introshop{
+#introshop {
+    font-size: 12pt !important;
+}
+[class~=genesis-nav-menu] [class~=sub-menu] a, [class~=genesis-nav-menu] a, body, [class~=about-us-content-desc]{
     font-size: 14pt !important;
 }
 
