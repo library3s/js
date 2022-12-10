@@ -15,7 +15,7 @@ abbr[title]{border-bottom-width:medium;}html{line-height:1.15;}[type="reset"],[t
         text-align: left;
     }
     .sloganct .textdd {
-        font-size: 20px;
+        font-size: 20px !important;
     }
 }
 @media screen and (max-width: 400px) {
