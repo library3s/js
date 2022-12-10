@@ -50,6 +50,9 @@ article [class~=entry-content] {
         font-family: UTMAvo;
         font-size: 15px !important;
     }
+    a ,p, h4, h2, h1, h3 {
+        font-family:UTMAvo !important;
+    }
 
     .about-us-content-desc {
         font-size: 15px !important;
