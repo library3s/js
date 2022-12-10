@@ -67,4 +67,7 @@ body,a ,p, h4, h2, h1 {
 [class~=genesis-nav-menu] [class~=sub-menu] a, [class~=genesis-nav-menu] a, body, [class~=about-us-content-desc]{
     font-size: 14pt !important;
 }
+.Rich_Web_VS_HPS88_Nav a {
+    border: none !important;
+}
 
