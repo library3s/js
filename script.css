@@ -47,7 +47,7 @@ article [class~=entry-content] {
 
  @media screen and (max-width: 600px){
      body {
-        font-family: serif;
+        font-family: UTMAvo;
         font-size: 15px !important;
     }
 
