@@ -88,3 +88,9 @@ body,a ,p, h4, h2, h1, h3 {
 .sloganct img{
 	width: 180px;
 }
+
+@media screen and (min-width: 600px){
+    .anh-tam-nhin-sm-tr {
+        top: 0;
+    }
+}
