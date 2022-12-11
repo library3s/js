@@ -93,4 +93,8 @@ body,a ,p, h4, h2, h1, h3 {
     .anh-tam-nhin-sm-tr {
         top: 0;
     }
+    [class~=tintucsk-home] [class~=wppsac-post-carousel][class~=design-1] [class~=wppsac-carousel-slides] {
+        width: auto;
+        padding-right: 2px;
+    }
 }
