@@ -120,6 +120,6 @@ body,a ,p, h4, h2, h1, h3 {
 }
 @media screen and (max-width: 651px){
     .about-us-content-home .about-us-list-home{
-        line-height: unset;
+        line-height: unset !important;
     }
 }
