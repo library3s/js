@@ -109,7 +109,7 @@ body,a ,p, h4, h2, h1, h3 {
         padding-right: 2px;
     }
     .about-us-content-home .about-us-list-home{
-        line-height: 37px;
+        line-height: 33px;
     }
 }
 @media screen and (max-width: 400px)
