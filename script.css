@@ -82,6 +82,9 @@ article [class~=entry-content] {
     .site-header button{
         padding-top: 13px !important;
     }
+    .site-header {
+        padding-top: 5px !important;
+    }
 
     .about-us-img {
         height: auto !important;
