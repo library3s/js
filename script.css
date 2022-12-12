@@ -122,4 +122,10 @@ body,a ,p, h4, h2, h1, h3 {
     .about-us-content-home .about-us-list-home{
         line-height: unset !important;
     }
+    .entry-content .about-us-content-home ul{
+        margin-bottom: 28.5pt !important;
+    }
+}
+.entry-content .about-us-content-home ul{
+        margin-bottom: 128.5pt;
 }
