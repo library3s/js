@@ -118,7 +118,7 @@ body,a ,p, h4, h2, h1, h3 {
             width: 155px !important;
      }
 }
-@media screen and (max-width: 651px){
+@media screen and (max-width: 640px){
     .about-us-content-home .about-us-list-home{
         line-height: unset !important;
     }
