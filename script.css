@@ -67,13 +67,27 @@ article [class~=entry-content] {
         font-size: 11pt !important;
     }
     #genesis-mobile-nav-primary{
-        top: 13px
+        top: 0px
     }
-    .sloganct img {
-        width: 180px !important;
+     .sloganct img {
+            width: 155px !important;
+     }
+     .anhdd img {
+            width: 50px !important;
+        }
+    .sloganct {
+        transform: unset !important;
     }
+
+    .site-header button{
+        padding-top: 13px !important;
+    }
+
     .about-us-img {
         height: auto !important;
+    }
+    .site-header{
+        min-height: auto !important;
     }
 }
 
@@ -112,12 +126,9 @@ body,a ,p, h4, h2, h1, h3 {
         line-height: 33px;
     }
 }
-@media screen and (max-width: 400px)
-{
-    .sloganct img {
-            width: 155px !important;
-     }
-}
+
+
+
 @media screen and (max-width: 640px){
     .about-us-content-home .about-us-list-home{
         line-height: unset !important;
