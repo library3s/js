@@ -144,3 +144,6 @@ body,a ,p, h4, h2, h1, h3,span {
 .entry-meta{
      display: none;
 }
+.post-meta-user{
+      display: none;
+}
