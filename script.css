@@ -135,5 +135,5 @@ body,a ,p, h4, h2, h1, h3,span {
         margin-bottom: 122.5pt;
 }
 .tintucsk-tong .entry-title{
-        font-size: 18px;
+        font-size: 18px !important;
 }
