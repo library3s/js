@@ -141,6 +141,6 @@ body,a ,p, h4, h2, h1, h3,span {
 .breadcrumb{
     display: none;
 }
-.entry-footer .entry-meta{
+.entry-meta{
      display: none;
 }
