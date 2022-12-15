@@ -149,4 +149,5 @@ body,a ,p, h4, h2, h1, h3,span {
 }
 .entry-header .entry-title{
        color: #c65a47;
+       font-family: UTMAvo !important;
 }
