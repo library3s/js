@@ -138,3 +138,9 @@ body,a ,p, h4, h2, h1, h3,span {
 .tintucsk-tong .entry-title{
         font-size: 18px !important;
 }
+.breadcrumb{
+    display: none;
+}
+.entry-footer .entry-meta{
+     display: none;
+}
