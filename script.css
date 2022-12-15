@@ -147,3 +147,6 @@ body,a ,p, h4, h2, h1, h3,span {
 .post-meta-user{
       display: none;
 }
+.entry-header .entry-title{
+       color: #c65a47;
+}
