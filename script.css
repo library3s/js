@@ -174,8 +174,15 @@ body,a ,p, h4, h2, h1, h3,span {
     line-height: 1.7;
 }
 #featured-post-4{
-        border-top-color: #33994f !important;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
     padding-left: 16px;
+    border-top-color: #33994f;
+    border-left-color: #ccc;
+    border-right-color: #ccc;
+    border-bottom-color: #ccc;
 }
 #featured-post-4 h3{
     padding-top: 9px;
