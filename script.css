@@ -173,3 +173,14 @@ body,a ,p, h4, h2, h1, h3,span {
         font-size: 30px;
     line-height: 1.7;
 }
+#featured-post-4{
+        border-top-color: #33994f !important;
+    padding-left: 16px;
+}
+#featured-post-4 h3{
+    padding-top: 9px;
+    margin-bottom: 0px !important;
+}
+#featured-post-4 article {
+    border-color: 1px dotted #ccc !important;
+}
