@@ -154,7 +154,3 @@ body,a ,p, h4, h2, h1, h3,span {
 [class~=afooter] a{
     padding-right: 27px !important;
 }
-.afooter a:hover{
-    padding: 0px !important;
-    margin: 0px !important;
-}
