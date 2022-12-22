@@ -170,7 +170,7 @@ body,a ,p, h4, h2, h1, h3,span {
    
     font-family: UTMAvo !important;
         font-weight: 600;
-        font-size: 30px;
+        font-size: 19px;
     line-height: 1.7;
 }
 #featured-post-4{
@@ -190,4 +190,7 @@ body,a ,p, h4, h2, h1, h3,span {
 }
 #featured-post-4 article {
     border-color: 1px dotted #ccc !important;
+}
+.wppsac-post-date{
+    display: none;
 }
