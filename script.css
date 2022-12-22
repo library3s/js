@@ -184,9 +184,13 @@ body,a ,p, h4, h2, h1, h3,span {
     border-right-color: #ccc;
     border-bottom-color: #ccc;
 }
-#featured-post-4 h3{
+#featured-post-4 h3 {
     padding-top: 9px;
     margin-bottom: 0px !important;
+    border-bottom: 1px solid #ececec;
+    font-size: 20px;
+    font-weight: 600;
+    color: #c65a47;
 }
 #featured-post-4 article {
     border-color: 1px dotted #ccc !important;
